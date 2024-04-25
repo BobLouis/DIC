@@ -5,11 +5,11 @@ cModel Technology
 Z0 dC:\Users\user\Develop\IC_design\IC_context_practice\2024_practice\2024\spec\2024_grad_cell\2024_grad_cell
 vCIPU
 !i10b 1
-!s100 7<@P7VI^U]I?PlU2dmKzn3
-I81nHF39[zjOh9z[dd<XL12
-Z1 V?UJN8<>[YefRFN<g3hWYa0
+!s100 6Ua[OC;nDIDg>3Z6]ECh22
+IO0TzW3Rz1>ADHz@=TTASN2
+Z1 VmAAz0oiJ[bOb33hB2]0hj1
 Z2 dC:\Users\user\Develop\IC_design\DIC\DIC2024_hw2\ref
-w1713954008
+w1714017638
 Z3 8CIPU.v
 Z4 FCIPU.v
 L0 1
@@ -17,7 +17,7 @@ Z5 OV;L;10.1d;51
 r1
 !s85 0
 31
-!s108 1713954011.702000
+!s108 1714017642.339000
 !s107 CIPU.v|
 Z6 !s90 -reportprogress|300|CIPU.v|
 !s101 -O0
@@ -25,22 +25,22 @@ o-O0
 Z7 n@c@i@p@u
 vtextfixture
 Z8 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
-Z9 !s100 Z4MeUPzlS:6GbHJPmH;_[2
-Z10 IU3JV8EG2Lo=dG]7TKXjgA1
-Z11 V7RUhP?i]ziD9]ogaVlVNY1
-Z12 !s105 tb_sv_unit
+Z9 I_QD?a1:SlFN?>n7^5_j4X1
+Z10 V7RUhP?i]ziD9]ogaVlVNY1
+Z11 !s105 tb_sv_unit
 S1
 R2
-Z13 w1713930640
-Z14 8C:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv
-Z15 FC:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv
+Z12 w1714016716
+Z13 8C:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv
+Z14 FC:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv
 L0 11
 R5
 r1
 31
-Z16 !s90 -reportprogress|300|-work|work|-sv|C:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv|
-Z17 o-work work -sv -O0
-Z18 !s108 1713941360.617000
+Z15 !s90 -reportprogress|300|-work|work|-sv|C:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv|
+Z16 o-work work -sv -O0
+Z17 !s100 Z_]9LC0KTGmVN7aK7Io[A0
+Z18 !s108 1714016723.338000
 Z19 !s107 C:/Users/user/Develop/IC_design/DIC/DIC2024_hw2/ref/tb.sv|
 !i10b 1
 !s85 0

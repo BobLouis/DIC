@@ -6,7 +6,7 @@ entity CIPU is
         READ            : vl_logic_vector(0 to 2) := (Hi0, Hi0, Hi1);
         FIFO_OUT        : vl_logic_vector(0 to 2) := (Hi0, Hi1, Hi0);
         LIFO_OUT        : vl_logic_vector(0 to 2) := (Hi0, Hi1, Hi1);
-        \OUT\           : vl_logic_vector(0 to 2) := (Hi1, Hi0, Hi0)
+        FINISH          : vl_logic_vector(0 to 2) := (Hi1, Hi0, Hi0)
     );
     port(
         clk             : in     vl_logic;
@@ -31,5 +31,5 @@ entity CIPU is
     attribute mti_svvh_generic_type of READ : constant is 1;
     attribute mti_svvh_generic_type of FIFO_OUT : constant is 1;
     attribute mti_svvh_generic_type of LIFO_OUT : constant is 1;
-    attribute mti_svvh_generic_type of \OUT\ : constant is 1;
+    attribute mti_svvh_generic_type of FINISH : constant is 1;
 end CIPU;
